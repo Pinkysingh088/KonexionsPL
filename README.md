@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc45125b-2226-4cc4-be63-aa3e753e9a1b)# KonexionsPL
+
 **Project Title: Admin Dashboard for Konexions - Profit & Loss (P\&L) Module**
 
 **Description:**
@@ -51,6 +51,7 @@ konexionsPL/
      └── konexions_expenses
 ├── logout.php/
 ```
+![Uploading image.png…]()
 
 **How to Run Locally:**
 
