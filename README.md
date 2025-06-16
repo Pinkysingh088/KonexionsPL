@@ -4,7 +4,6 @@
 **Description:**
 This project is a web-based admin dashboard developed using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**. It is designed to manage and visualize the financial performance of different business processes under Konexions Back Office Services.
 
-The Profit and Loss (P\&L) module enables the admin to calculate and track:
 **Process Management**: Each process represents a client engagement (e.g., banks or financial institutions). Agents work under these processes for services like EMI collections, recoveries, and related financial operations.
 
 * **Billing Revenue**
