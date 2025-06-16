@@ -51,13 +51,6 @@ konexionsPL/
      └── konexions_expenses
 ├── logout.php/
 ```
-![image](https://github.com/user-attachments/assets/a774e7a6-c2cd-4df8-8fd5-0cc0f3cfd7b8)
-![image](https://github.com/user-attachments/assets/8a9d9c3b-c313-430c-9bae-25caf1ebf0ce)
-![image](https://github.com/user-attachments/assets/a6c96ae4-2843-4349-9dc7-7177d75d5f8b)
-![image](https://github.com/user-attachments/assets/306322f0-b679-4265-891b-215035c1be86)
-![image](https://github.com/user-attachments/assets/48caa06a-6563-44fa-b798-b8271f6b6b9b)
-![image](https://github.com/user-attachments/assets/375a033f-6ebe-4087-9f5c-7670e736adf0)
-
 **How to Run Locally:**
 
 1. Install XAMPP or WAMP.
@@ -67,10 +60,15 @@ konexionsPL/
 5. Run via `localhost/konexionsPL/index.php\`.
 
 **Screenshot Preview:**
-![Dashboard Interface](screenshot.png) *(Replace with actual screenshot image in repo)*
+![image](https://github.com/user-attachments/assets/a774e7a6-c2cd-4df8-8fd5-0cc0f3cfd7b8)
+![image](https://github.com/user-attachments/assets/8a9d9c3b-c313-430c-9bae-25caf1ebf0ce)
+![image](https://github.com/user-attachments/assets/a6c96ae4-2843-4349-9dc7-7177d75d5f8b)
+![image](https://github.com/user-attachments/assets/306322f0-b679-4265-891b-215035c1be86)
+![image](https://github.com/user-attachments/assets/48caa06a-6563-44fa-b798-b8271f6b6b9b)
+![image](https://github.com/user-attachments/assets/375a033f-6ebe-4087-9f5c-7670e736adf0)
 
-**Author:** Pinky Singh
-**GitHub Repo:** [github.com/pinkysingh088/admin-dashboard-konexions](https://github.com/pinkysingh088/admin-dashboard-konexions)
+**Author:** Pinky
+**GitHub Repo:** [https://pinkysingh088.github.io/KonexionsPL/)
 
 
 
